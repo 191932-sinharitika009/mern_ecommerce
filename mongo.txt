@@ -1,0 +1,3 @@
+To get started mongodb as a server...run the command in cmd
+
+"C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
